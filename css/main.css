@@ -1,13 +1,21 @@
 h1 {
     color:#42281c; 
-    background:#f6d2ac;
+    background:#e7e9e9;
     text-transform: uppercase;
     
 }
+body {
+    background: linear-gradient(to bottom, #e7e9e9, #e8cba8) no-repeat;
+    background-size: cover;
+    color: #473838;
+}
 p {
     color: #42281c; 
-    background-color: #e6ae74;
+    background-color: #e8cba8;
     font-weight: bold;
+}
+q {
+    color:#a11d06;
 }
 a:link {
     color: #cc925d; 
@@ -17,7 +25,7 @@ a {
     text-decoration: none;
 }
 a:visited {
-    color: #791f06;
+    color: #806963;
   }
 a:hover {
     color: #1e110b; 
