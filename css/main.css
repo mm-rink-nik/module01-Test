@@ -1,0 +1,29 @@
+h1 {
+    color:#42281c; 
+    background:#f6d2ac;
+    text-transform: uppercase;
+    
+}
+p {
+    color: #42281c; 
+    background-color: #e6ae74;
+    font-weight: bold;
+}
+a:link {
+    color: #cc925d; 
+    border-bottom: 1px dashed; 
+  }
+a {
+    text-decoration: none;
+}
+a:visited {
+    color: #791f06;
+  }
+a:hover {
+    color: #1e110b; 
+    border-bottom: .07em solid;;
+  }
+a:active {
+    color: #a11d06; 
+    border-bottom: 1px dashed;
+  }
